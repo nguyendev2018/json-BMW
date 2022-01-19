@@ -1,9 +1,17 @@
 {
-    "posts": [{
-        "id": 1,
-        "title": "json-servdsder",
-        "author": "typicode"
-    }],
+    "banner": [{
+            "id": 1,
+            "image": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642336246/bmw/Bannner/bmw3_utofb4.png"
+        },
+        {
+            "id": 2,
+            "image": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642336245/bmw/Bannner/bmw2_fjchtx.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642336245/bmw/Bannner/bmw1_l9se1c.jpg"
+        }
+    ],
     "comments": [{
         "id": 1,
         "body": "some comment",
