@@ -12,7 +12,115 @@
             "image": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642336245/bmw/Bannner/bmw1_l9se1c.jpg"
         }
     ],
-    "specials": [],
+    "specials": [{
+            "title": "X5",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/x5_zr7srz.png",
+            "price": "$57,000",
+            "note": "BMW TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642837985993,
+            "updateAt": 1642837985993,
+            "id": 1
+        },
+        {
+            "title": "X3",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/x3_pecjny.png",
+            "price": "$37,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838042148,
+            "updateAt": 1642838042148,
+            "id": 2
+        },
+        {
+            "title": "X4",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/4_nebxwh.png",
+            "price": "$37,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838120498,
+            "updateAt": 1642838120498,
+            "id": 3
+        },
+        {
+            "title": "X6",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/1_dzhf02.png",
+            "price": "$60,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838197771,
+            "updateAt": 1642838197771,
+            "id": 4
+        },
+        {
+            "title": "X7",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/2_jdzgpv.png",
+            "price": "$70,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838211056,
+            "updateAt": 1642838211056,
+            "id": 5
+        },
+        {
+            "title": "X8",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/3_jasdws.png",
+            "price": "$80,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838232725,
+            "updateAt": 1642838232725,
+            "id": 6
+        },
+        {
+            "title": "X3",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/x3_pecjny.png",
+            "price": "$37,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838367779,
+            "updateAt": 1642838367779,
+            "id": 7
+        },
+        {
+            "title": "X5",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/x5_zr7srz.png",
+            "price": "$57,000",
+            "note": "BMW TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838382948,
+            "updateAt": 1642838382948,
+            "id": 8
+        },
+        {
+            "title": "X4",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/4_nebxwh.png",
+            "price": "$37,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838401382,
+            "updateAt": 1642838401382,
+            "id": 9
+        },
+        {
+            "title": "X6",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/1_dzhf02.png",
+            "price": "$60,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838418424,
+            "updateAt": 1642838418424,
+            "id": 10
+        },
+        {
+            "title": "X7",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/2_jdzgpv.png",
+            "price": "$70,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838428673,
+            "updateAt": 1642838428673,
+            "id": 11
+        },
+        {
+            "title": "X8",
+            "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/3_jasdws.png",
+            "price": "$80,000",
+            "note": "TwinPower Turbo inline 4-cylinder",
+            "createdAt": 1642838441686,
+            "updateAt": 1642838441686,
+            "id": 12
+        }
+    ],
     "blogs": [{
             "id": 1,
             "title": "Vì sao BMW quyết không tự sản xuất pin xe điện như mọi đối thủ? ",
