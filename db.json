@@ -152,7 +152,7 @@
             "title": "BMW 5 Series mới ra mắt tại Việt Nam",
             "author": "Hà Anh Tuấn",
             "imgUrl": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1643448595/bmw/Blog/bmw-5-series-moi-ra_ucl0pl.jpg",
-            "desc": "Nội thất của xe bổ sung thêm các chi tiết cao cấp, đồng thời BMW 5 Series mới cũng được cải thiện tính hiệu quả của công nghệ hỗ trợ lái và các tính năng vận hành giúp 5 Series mới củng cố vị thế của một chiếc sedan sang trọng, hiện đại và đầy năng động.Được xuất hiện lần đầu tiên vào năm 1972, BMW 5 Series đã trải qua gần 50 năm phát triển với 7 thế hệ và hơn 8 triệu chiếc xe được bán ra trên toàn thế giới. Xuyên suốt các thế hệ, BMW 5 Series đã gặt hái được vô số giải thưởng danh giá và là một trong những mẫu xe thành công nhất của BMW. Ở thế hệ mới nhất, BMW 5 Series vẫn viết tiếp câu chuyện đầy vinh quang của những thế hệ đi trước, mang đến sự thay đổi từ ngoại thất đến nội thất, cùng với đó là những nâng cấp đáng giá trong công nghệ chiếu sáng và các tính năng kết nối hiện đại của xe. BMW 5 Series mới sẽ được ra mắt chính thức tại Việt Nam với 3 phiên bản BMW 520i Luxury Line, 520i M Sport và phiên bản 530i M Sport cao cấp nhất.",
+            "desc": "Nội thất của xe bổ sung thêm các chi tiết cao cấp, đồng thời BMW 5 Series mới cũng được cải thiện tính hiệu quả của công nghệ hỗ trợ lái và các tính năng vận hành giúp 5 Series mới củng cố vị thế của một chiếc sedan sang trọng, hiện đại và đầy năng động.Được xuất hiện lần đầu tiên vào năm 1972, BMW 5 Series đã trải qua gần 50 năm phát triển với 7 thế hệ và hơn 8 triệu chiếc xe được bán ra trên toàn thế giới. Xuyên suốt các thế hệ, BMW 5 Series đã gặt hái được vô số giải thưởng danh giá và là một trong những mẫu xe thành công nhất của BMW. Ở  nhất, BMW 5 Series vẫn viết tiếp câu chuyện đầy vinh quang của những thế hệ đi trước, mang đến sự thay đổi từ ngoại thất đến nội thất, cùng với đó là những nâng cấp đáng giá trong công nghệ chiếu sáng và các tính năng kết nối hiện đại của xe. BMW 5 Series mới sẽ được ra mắt chính thức tại Việt Nam với 3 phiên bản BMW 520i Luxury Line, 520i M Sport và phiên bản 530i M Sport cao cấp nhất.",
             "createdAt": 1642912308270,
             "updateAt": 1642912308270,
             "id": 4
@@ -180,7 +180,7 @@
     ],
     "product-filter": [{
             "id": 1,
-            "title": "BMW thế hệ mới công suất mới 320i",
+            "title": "BMW  công suất mới 320i",
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
@@ -188,7 +188,7 @@
         },
         {
             "id": 2,
-            "title": "BMW thế hệ mới công suất mới 320i",
+            "title": "BMW  công suất mới 320i",
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381484/bmw/product-filter/bmw-320-2_aagvct.jpg",
@@ -196,7 +196,7 @@
         },
         {
             "id": 3,
-            "title": "BMW thế hệ mới công suất mới 320i",
+            "title": "BMW  công suất mới 320i",
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
@@ -204,7 +204,7 @@
         },
         {
             "id": 4,
-            "title": "BMW thế hệ mới công suất mới 720i",
+            "title": "BMW  công suất mới 720i",
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381485/bmw/product-filter/bmw-720-2_cgd8qa.jpg",
@@ -212,7 +212,7 @@
         },
         {
             "id": 5,
-            "title": "BMW thế hệ mới công suất mới 720i",
+            "title": "BMW  công suất mới 720i",
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381483/bmw/product-filter/bmw-720-1_rrynli.jpg",
@@ -220,7 +220,7 @@
         },
         {
             "id": 6,
-            "title": "BMW thế hệ mới công suất mới 920i",
+            "title": "BMW  công suất mới 920i",
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381485/bmw/product-filter/bmw-920-3_bbf494.jpg",
@@ -228,7 +228,7 @@
         },
         {
             "id": 7,
-            "title": "BMW thế hệ mới công suất mới 920i",
+            "title": "BMW  công suất mới 920i",
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381485/bmw/product-filter/bmw-920-3_bbf494.jpg",
