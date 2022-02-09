@@ -184,7 +184,7 @@
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
-            "data-item": "320i"
+            "item": "320i"
         },
         {
             "id": 2,
@@ -192,7 +192,7 @@
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
-            "data-item": "320i"
+            "item": "320i"
         },
         {
             "id": 3,
@@ -200,7 +200,7 @@
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
-            "data-item": "320i"
+            "item": "320i"
         },
         {
             "id": 4,
@@ -208,7 +208,7 @@
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
-            "data-item": "720i"
+            "item": "720i"
         },
         {
             "id": 5,
@@ -216,7 +216,7 @@
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
-            "data-item": "720i"
+            "item": "720i"
         },
         {
             "id": 6,
@@ -224,7 +224,7 @@
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
-            "data-item": "920i"
+            "item": "920i"
         },
         {
             "id": 7,
@@ -232,7 +232,7 @@
             "price": "$5000",
             "note": "BMW thiết kế toàn diện",
             "imgUrl": " https://res.cloudinary.com/dtwnt4knx/image/upload/v1644381490/bmw/product-filter/bmw-320-1_kh1hcd.jpg",
-            "data-item": "920i"
+            "item": "920i"
         }
     ]
 
