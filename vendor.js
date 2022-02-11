@@ -1,0 +1,3 @@
+function nguyen() {
+    alert("nguyen");
+}
